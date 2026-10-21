@@ -1,0 +1,16 @@
+# Secrets
+kaggle.json
+.env
+
+# Data and models (download data from Kaggle instead of committing it)
+data/
+models/
+*.pt
+*.joblib
+
+# Environments and caches
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
